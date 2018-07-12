@@ -1,6 +1,5 @@
 <template>
   <div>
-    <nav-bar></nav-bar>
     <section class="container">
       <div>
         <app-logo/>
@@ -27,12 +26,10 @@
 
 <script>
 import AppLogo from '~/components/AppLogo.vue'
-import NavBar from '~/components/NavBar.vue'
 
 export default {
   components: {
-    AppLogo,
-    NavBar
+    AppLogo
   }
 }
 </script>
