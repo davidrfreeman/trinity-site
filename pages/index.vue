@@ -1,7 +1,7 @@
 <template>
   <div>
     <b-jumbotron header="Bootstrap Vue" lead="Bootstrap 4 Components for Vue.js 2" >
-      <p>For more information visit website</p>
+      <p>This is to test the deploy script</p>
     </b-jumbotron>
   </div>
 </template>
