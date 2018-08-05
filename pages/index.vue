@@ -7,15 +7,12 @@
 </template>
 
 <script>
-
-export default {
-
-}
+export default {}
 </script>
 
 <style scoped>
-  .jumbotron {
-    /* background-image: url('~/assets/church.png'); */
-    height: 100vh;
-  }
+.jumbotron {
+  /* background-image: url('~/assets/church.png'); */
+  height: 100vh;
+}
 </style>
