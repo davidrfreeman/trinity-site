@@ -3,7 +3,7 @@
         <b-container>
             <b-row>
                 <b-col md="4" offset-md="8">
-                    <h4>Welcome To Trinity</h4>
+                    <h4>Welcome To Trinity Lutheran</h4>
                     <p>Trinity Lutheran Church, School, and Early Learning Center offers a wide variety of services to help you on your faith journey.  Join us for worship and fellowship.</p>
                     <b-link to="/church"><b-button>Church</b-button></b-link>
                     <b-link to="/school"><b-button>School</b-button></b-link>
